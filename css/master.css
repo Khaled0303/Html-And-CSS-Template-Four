@@ -92,7 +92,7 @@ a{
     .page .sidebar li{
         padding: 15px;
     }
-    .page .sidebar li a{
+    .page .sidebar li a span{
         display: none;
     }
 }
